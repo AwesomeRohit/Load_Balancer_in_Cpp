@@ -110,4 +110,4 @@ MIT License. Free to use and modify.
 **Rohit Suthar**  
 _Developer | Backend Enthusiast | MCA Student_  
 📧 [Email](mailto:rohit.suthar.1935@gmail.com)  
-🔗 [LinkedIn]([https://linkedin.com/in/your-profile](https://www.linkedin.com/in/rohit-suthar-8a3449214/)) (Optional)
+🔗 [LinkedIn](https://www.linkedin.com/in/rohit-suthar-8a3449214/)
