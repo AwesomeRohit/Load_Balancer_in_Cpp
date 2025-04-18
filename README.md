@@ -78,7 +78,7 @@ using json = nlohmann::json;
 1. Clone the repo:
 
 ```bash
-git clone https://github.com/yourusername/cpp-load-balancer.git
+git clone https://github.com/AwesomeRohit/cpp-load-balancer.git
 cd cpp-load-balancer
 ```
 
@@ -108,6 +108,6 @@ MIT License. Free to use and modify.
 ## 🙋‍♂️ Author
 
 **Rohit Suthar**  
-_Developer | Backend Enthusiast | MCA Student_  
+_Developer | Backend Enthusiast | MCA Post Graduate 
 📧 [Email](mailto:rohit.suthar.1935@gmail.com)  
 🔗 [LinkedIn](https://www.linkedin.com/in/rohit-suthar-8a3449214/)
